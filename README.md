@@ -11,7 +11,7 @@ Capacitor,
 Potentiometer.
 
 ### Schematic 
-<img src="Images/schma.png" width =1276 height= 712>
+<img src="Images/schma.png" width =1576 height= 712>
 
 
 ### PCB
