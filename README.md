@@ -1,6 +1,8 @@
 # LED-Chaser
 LEDs turns on and off one after the other in a regular sequence.
 This mini project was designed, tested and simulated on Altium Designer.
+[View in Altium ](https://covenant-university.365.altium.com/designs/8D506BF7-9A76-469B-A2D9-04FF917368E2)  
+
 ### Components 
 LED x10, 
 555 Timer,
